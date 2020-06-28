@@ -1,0 +1,95 @@
+.logo {
+	float: left;
+	height: 50px;
+	width: 100px;
+	position:absolute;
+}
+
+.rdip {
+	float: right;
+	margin-right: 20px;
+}
+
+.myNav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  background-size: cover;
+  width: 100%;
+}
+
+.list {
+  float: left;
+}
+
+.anchor {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+.anchor:hover {
+  background-color: #111;
+}
+
+.infoTable,.data {
+  border: 2px solid black;
+}
+
+.infoTable {
+  width:350px;
+  border-collapse: collapse;
+}
+
+.data {
+	text-align: center;
+	font-weight: bold;
+	font-family: sans-serif;
+	padding: 5px;
+}
+
+.profile {
+	float:right;
+	width: 100px;
+	height: 100px;
+}
+
+input[type=text], input[type=tel], select {	
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+#name {
+	margin-top: 30px;
+}
+
+
+
+.declare {
+	float: left;
+	width:10%;
+}
+
+table {
+	margin-top: 20px;
+}
+
+.formRow {
+	height:50px;
+	text-align: center;
+}
+
+.myTable {
+	width: 500px;
+}
+
+/*.info{
+	text-align: center;
+} */
