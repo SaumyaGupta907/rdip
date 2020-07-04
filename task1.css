@@ -1,0 +1,41 @@
+body{
+	background: url(https://media.istockphoto.com/photos/calculator-and-pen-on-white-background-picture-id838094762?k=6&m=838094762&s=612x612&w=0&h=ei1AreoREePnz51MC599IXH1LR50Ol14tsnOXwT6yjE=); 
+	background-size: cover;
+}
+
+.container{
+	margin-top: 100px;
+	margin-left: 400px;
+}
+
+#myinput{
+	padding: 15px 32px;
+	border-radius: 2px;
+	display: inline-block;
+  	font-size: 16px;
+  	margin: 4px 2px;
+  	width:23%;
+}
+
+#myinput1{
+	padding: 15px 32px;
+	border-radius: 2px;
+	display: inline-block;
+  	font-size: 16px;
+  	margin: 4px 2px;
+  	width: 23%;
+}
+
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+

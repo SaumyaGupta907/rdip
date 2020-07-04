@@ -1,0 +1,56 @@
+
+body{
+	background: url(https://media.gettyimages.com/videos/seamless-currency-rate-chart-animation-4k-loop-video-id1220589845?s=640x640);
+	background-size: cover;
+}
+
+.container {
+  padding: 16px;
+  background-color: white;
+  width: 60%;
+  margin-left: 350px;
+  margin-top: 100px;
+}
+
+h1{
+	margin-left: 38%;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+  font-size: 20px;
+}
+
+button:hover {
+  opacity: 1;
+}
+
+input[type=text]{
+  width: 97%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+select {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus,select:focus {
+  background-color: #ddd;
+  outline: none;
+}
